@@ -131,7 +131,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(708, 23);
             this.label3.TabIndex = 1;
-            this.label3.Text = "Douvle click on the top-left most part of the autotile you want to convert.";
+            this.label3.Text = "Double click on the top-left most part of the autotile you want to convert.";
             // 
             // panel1
             // 
