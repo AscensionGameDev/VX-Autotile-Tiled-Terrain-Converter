@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace VX_Autotile_To_Tiled_Terrain_Converter.Properties {
+namespace VX_Autotile_To_Tiled_Terrian_Converter.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace VX_Autotile_To_Tiled_Terrain_Converter.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("VX_Autotile_To_Tiled_Terrain_Converter.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("VX_Autotile_To_Tiled_Terrian_Converter.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

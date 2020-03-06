@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace VX_Autotile_To_Tiled_Terrain_Converter.Properties {
+namespace VX_Autotile_To_Tiled_Terrian_Converter.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

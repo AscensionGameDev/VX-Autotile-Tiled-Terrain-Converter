@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1022
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VX-Autotile-To-Tiled-Terrain-Converter", "VX-Autotile-To-Tiled-Terrain-Converter\VX-Autotile-To-Tiled-Terrain-Converter.csproj", "{B5ADA647-6E9E-41D2-A4EA-FE588BA68371}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VX Autotile to Tiled Terrian Converter", "VX-Autotile-To-Tiled-Terrian-Converter\VX-Autotile-To-Tiled-Terrian-Converter.csproj", "{B5ADA647-6E9E-41D2-A4EA-FE588BA68371}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,8 +18,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8B37E5A0-212D-44E8-B16D-D20317A81DC3}
 	EndGlobalSection
 EndGlobal
