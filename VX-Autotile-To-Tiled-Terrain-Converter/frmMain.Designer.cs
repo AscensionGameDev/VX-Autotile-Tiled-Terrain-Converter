@@ -101,7 +101,7 @@
             // 
             this.inverseBox.AutoSize = true;
             this.inverseBox.Location = new System.Drawing.Point(656, 15);
-            this.inverseBox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.inverseBox.Margin = new System.Windows.Forms.Padding(2);
             this.inverseBox.Name = "inverseBox";
             this.inverseBox.Size = new System.Drawing.Size(61, 17);
             this.inverseBox.TabIndex = 4;
@@ -165,7 +165,7 @@
             this.MinimumSize = new System.Drawing.Size(398, 414);
             this.Name = "frmMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Ascension Game Dev VX Autotile to Tiled Terrian Converter (and back!)";
+            this.Text = "Ascension Game Dev VX Autotile to Tiled Terrain Converter (and back!)";
             this.grpStep1.ResumeLayout(false);
             this.grpStep1.PerformLayout();
             this.grpStep2.ResumeLayout(false);

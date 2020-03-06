@@ -93,8 +93,7 @@ namespace Multi_Purpose_Graphic_Splitter
                     var b = new Bitmap(64, 96);
                     var g = Graphics.FromImage(b);
                     g.Clear(Color.Transparent);
-                    // python left, upper, right, lower
-                    // c# x, y, width, height
+
                     g.DrawImage(sampleImg, new Rectangle(48, 16, 16, 16), new Rectangle(selectRect.X + 0, selectRect.Y + 0, 16, 16), GraphicsUnit.Pixel);
                     g.DrawImage(sampleImg, new Rectangle(32, 16, 16, 16), new Rectangle(selectRect.X + 48, selectRect.Y + 0, 16, 16), GraphicsUnit.Pixel);
                     g.DrawImage(sampleImg, new Rectangle(48, 0, 16, 16), new Rectangle(selectRect.X + 0, selectRect.Y + 48, 16, 16), GraphicsUnit.Pixel);

@@ -7,8 +7,8 @@
     <ProjectGuid>{B5ADA647-6E9E-41D2-A4EA-FE588BA68371}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>VX_Autotile_To_Tiled_Terrian_Converter</RootNamespace>
-    <AssemblyName>VX Autotile to Tiled Terrian Converter</AssemblyName>
+    <RootNamespace>VX_Autotile_To_Tiled_Terrain_Converter</RootNamespace>
+    <AssemblyName>VX Autotile to Tiled Terrain Converter</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
